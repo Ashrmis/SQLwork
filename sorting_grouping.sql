@@ -1,3 +1,4 @@
+use hr_db;
 -- String patterns and sorting
 -- Retrieve all employees whose address is in Elgin,IL.
 select F_name,L_name from employees
